@@ -1,0 +1,136 @@
+From benedict.verhegghe at ugent.be  Tue Apr  1 15:59:38 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Tue, 01 Apr 2008 15:59:38 +0200
+Subject: [Pyformex-announce] pyFormex donation
+In-Reply-To: <e0b56b30804010611w797b316bv45f95c467632b8d0@mail.gmail.com>
+References: <e0b56b30804010611w797b316bv45f95c467632b8d0@mail.gmail.com>
+Message-ID: <47F23FCA.2050803@ugent.be>
+
+Dear Mr Gates,
+
+I am happy to see that you are impressed by our fine software, and I 
+thank you for your generous donation. We will immediately start working 
+on a Windows version, as soon as the first 10% of the donation has been 
+deposited into our account.
+
+I have only one small condition: pyFormex will stay under the GNU GPL 
+license.
+
+Best regards, and hope to hear from you soon,
+
+Benedict
+
+bill gates schreef:
+>  
+> Dear Mr. Verhegghe,
+>  
+> First of all I would like to congretulate you with the fantastic 
+> pyFormex software you and your team developed, I'm really sorry that my 
+> programmers at Microsoft didn't came up with this brillant idea. On your 
+> request I would like to contribute for the development of pyFormex with 
+> the sum of 1.000.000.000 <http://1.000.000.000> US dollars.
+>  
+> I have only one small condition: PLEASE release a Windows version asap 
+> so that my team can also start to play with it.
+>  
+> Best regards and keep me informed,
+>  
+> Bill
+
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                             IBiTech
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+
+From benedict.verhegghe at ugent.be  Tue Apr  1 16:57:57 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Tue, 01 Apr 2008 16:57:57 +0200
+Subject: [Pyformex-announce] pyFormex User Meeting on 08-04-2008
+Message-ID: <47F24D75.7010407@ugent.be>
+
+Hello,
+
+This is a reminder and/or invitation to the next pyFormex User Meeting,
+scheduled on 08-04-2008 at 10.00h in the IBiTech meeting room (5-th floor).
+
+Hope to meet you there,
+Benedict
+
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                             IBiTech
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+
+From benedict.verhegghe at ugent.be  Tue Apr 22 16:37:46 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Tue, 22 Apr 2008 16:37:46 +0200
+Subject: [Pyformex-announce] pyFormex user meeting
+Message-ID: <480DF83A.7000106@ugent.be>
+
+Hi all,
+
+The minutes of the last pyFormex user meeting are available from
+http://pyformex.berlios.de/usermeeting.html.
+
+Remarks can be sent by email to benedict.verhegghe at ugent.be, or 
+ventilated at the next pyFormex user meeting, which will take place
+in IBiTech on Tuesday, May 6, 2008 at 10.00h.
+
+
+Benedict
+
+
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                             IBiTech
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+
+From benedict.verhegghe at ugent.be  Wed Apr 30 11:45:42 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Wed, 30 Apr 2008 11:45:42 +0200
+Subject: [Pyformex-announce] pyFormex user meeting
+Message-ID: <48183FC6.901@ugent.be>
+
+Dear pyFormex user,
+
+You are invited to the 3rd pyFormex user meeting that will take place on 
+Tuesday 06 May at 10.00 am in the meeting room at IBiTech.
+
+One of the topics that will be discussed is the new Property Database
+system that will be part of the release 0.7.1, and the implications on
+exporting FE models.
+Users of the current svn sources have already access to the revised 
+system. Others can see what is coming in the online manual: the tutorial 
+section already contains a partial description: 
+http://pyformex.berlios.de/manual/node31.html
+
+
+Benedict
+
+
+
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                             IBiTech
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+

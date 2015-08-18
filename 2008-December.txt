@@ -1,0 +1,20 @@
+From benedict.verhegghe at ugent.be  Tue Dec 30 21:25:22 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Tue, 30 Dec 2008 21:25:22 +0100
+Subject: [Pyformex-announce] pyformex 0.7.3 has been released
+Message-ID: <495A83B2.3030300@ugent.be>
+
+Hi, pyFormex addict,
+
+pyFormex 0.7.3 is now available for download.
+Most prominent new things in this release:
+- Smoothing of surface models
+- PolyLine and Spline curves
+- Accelerated interactive picking
+Furthermore: a whole bunch of enhancements, improvements, bug fixes, and 
+extra examples.
+See file doc/ReleaseNotes for more details.
+
+Benedict
+
+

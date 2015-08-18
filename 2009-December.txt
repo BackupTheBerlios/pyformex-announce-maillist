@@ -1,0 +1,29 @@
+From benedict.verhegghe at ugent.be  Wed Dec  9 13:48:44 2009
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Wed, 09 Dec 2009 13:48:44 +0100
+Subject: [Pyformex-announce] pyFormex 0.8.1 has been released
+Message-ID: <4B1F9CAC.3030108@ugent.be>
+
+Dear pyFormex-lover,
+
+Today, the pyFormex project has been in existence for 5 years. It is
+therefore with some joy that we announce the availability of the next
+pyFormex release (0.8.1).
+
+As usual, this release contains a lot of enhancements, the details of
+which you can find in the file pyformex/doc/ReleaseNotes. Also, this
+release now includes the new (though unfinished) documentation that was
+announced earlier.
+
+Enjoy!
+
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                    IBiTech-bioMMeda
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                            http://www.ibitech.ugent.be
+=======================================================================
+
+

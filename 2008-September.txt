@@ -1,0 +1,54 @@
+From benedict.verhegghe at ugent.be  Thu Sep  4 11:57:36 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Thu, 04 Sep 2008 11:57:36 +0200
+Subject: [Pyformex-announce] pyFormex User Meeting
+Message-ID: <48BFB110.8010808@ugent.be>
+
+The next pyFormex Users Meeting will be held on Friday 12 September at 
+10.00h in the IBiTech Room at IBiTech (http://www.ibitech.ugent.be).
+
+All pyFormex users are welcome!
+
+On the agenda:
+   - Demonstration of the new SuperShape transformation
+   - Running pyFormex from a BuMPix Live Linux USB key
+   - Importing Philips Medical Systems wrl files into pyFormex
+   - Discussion: should pyFormex become a 'managed' project?
+   - Varia
+
+Anyone who wants to add a topic to the agenda, can mail it to me.
+
+
+Benedict
+
+
+From benedict.verhegghe at ugent.be  Tue Sep 23 16:47:46 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Tue, 23 Sep 2008 16:47:46 +0200
+Subject: [Pyformex-announce] pyFormex 0.7.2 is available
+Message-ID: <48D90192.6040703@ugent.be>
+
+Hi, pyFormex lover,
+
+We're happy to announce the 0.7.2 release of pyFormex.
+As usual, this new release comes with a bunch of enhancements and new 
+features.
+There are also some bug fixes and quite a few new examples.
+Especially have a look at the SuperShape example (there is a screenshot 
+on the website).
+This release installs with Python 2.4 or 2.5 (tested on Debian and Ubuntu).
+For more details on the changes in this release, see the 
+doc/ReleaseNotes file.
+
+benedict
+
+--
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                             IBiTech
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+

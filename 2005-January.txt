@@ -1,0 +1,15 @@
+From benedict.verhegghe at skynet.be  Mon Jan  3 18:04:31 2005
+From: benedict.verhegghe at skynet.be (Benedict Verhegghe)
+Date: Mon, 03 Jan 2005 18:04:31 +0100
+Subject: [Pyformex-announce] Announcing the first public release of pyFormex
+Message-ID: <41D97B1F.2090006@skynet.be>
+
+Hello All,
+
+This is to announce the first public (alpha) release of pyFormex (0.2).
+It is available from http://download.berlios.de/pyformex/pyformex-0.2.tar.gz
+
+Benedict Verhegghe
+Project Manager
+
+

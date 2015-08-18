@@ -1,0 +1,25 @@
+From benedict.verhegghe at ugent.be  Thu Oct 23 17:13:20 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Thu, 23 Oct 2008 17:13:20 +0200
+Subject: [Pyformex-announce] Next pyFormex user meeting on Friday Oct. 31
+Message-ID: <49009490.2080207@ugent.be>
+
+Hi pyFormex-ers and -fans,
+
+The next pyFormex user meeting has been rescheduled from Fridat Oct. 24 
+to Friday Oct. 31, at 10.00 am at IBiTech.
+
+Amongst the topics will be a demonstration (and discussion) of
+   'How to run pyFormex anywhere from a USB-stick'
+
+Benedict
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                             IBiTech
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+

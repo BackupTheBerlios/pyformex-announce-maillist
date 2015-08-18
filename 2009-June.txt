@@ -1,0 +1,31 @@
+From benedict.verhegghe at ugent.be  Sat Jun 13 11:31:28 2009
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Sat, 13 Jun 2009 11:31:28 +0200
+Subject: [Pyformex-announce] pyFormex 0.8 has been released!
+Message-ID: <4A3371F0.1030208@ugent.be>
+
+To all pyFormex addicts:
+
+pyFormex 0.8 has just been released.
+It has taken a little longer than expected, but you get lots in return.
+
+A few of the most prominent new things in this release:
+- install: installation scripts for external software
+- gui: rectangle and wheel zooming and improved Project handling
+- core: the Mesh class
+
+See file doc/ReleaseNotes for more details
+
+Enjoy it!
+Benedict
+
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                    IBiTech-bioMMeda
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+

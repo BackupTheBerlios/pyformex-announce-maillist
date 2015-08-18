@@ -1,0 +1,46 @@
+From benedict.verhegghe at ugent.be  Wed May  6 17:33:47 2009
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Wed, 06 May 2009 17:33:47 +0200
+Subject: [Pyformex-announce] pyFormex user meeting   (*** 1000 ***)
+Message-ID: <4A01ADDB.9060203@ugent.be>
+
+Hi pyFormex users,
+
+You are welcome on the next pyFormex user meeting at IBiTech on
+Monday 11 May at 14.00h.
+
+Among the topics to be discussed are some of the latest developments
+- pyFormex USB stick
+- BuMPix netboot server
+- installing external software (gts, gl2ps, tetgen, calpy, admesh, units)
+- exporting images using gl2ps
+- 2D Text rendering (GLUT vs. QT)
+- 3D font manipulations using FTGL
+- (rectangle) zooming and mouse key bindings
+- OpenGL3 and consequences for the future of pyFormex
+- local repositories
+- DXF format exporter
+- using projects
+
+Gianluca will also show us his user-friendly hex meshing from stl of 
+arterial bifurcations.
+
+Everybody welcome.
+BTW, minutes of the last two meetings will soon appear on the website.
+
+And for those wondering what this 1000 in the subject lines means: we 
+just reached the 1000-th revision of pyFormex! Upgrade, and you will 
+find a hidden Easter Egg.
+
+Benedict
+
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                    IBiTech-bioMMeda
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+

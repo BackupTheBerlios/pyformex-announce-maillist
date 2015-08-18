@@ -1,0 +1,34 @@
+From benedict.verhegghe at ugent.be  Tue Dec  4 09:59:07 2007
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Tue, 04 Dec 2007 09:59:07 +0100
+Subject: [Pyformex-announce] Reviving the pyFormex Forums and Mailing Lists
+Message-ID: <475516DB.80107@ugent.be>
+
+Hi,
+
+Now that pyFormex development has come into third gear and the 
+development team has grown in such way that oral communication alone is 
+no longer effective in keeping everyone updated, we decided to revive 
+the pyFormex Developer Forum and pyFormex Announcement Mailing List.
+
+The pyFormex Developer Forum is accessible at 
+https://developer.berlios.de/forum/?group_id=2717
+(You need to be logged in as developer on BerliOS to see the Developer 
+Forum.)
+This forum should become the preferential communication channel about
+pyFormex development.
+Developers can monitor the Forum (and we advise to do so: click the 
+monitor button on the Forum page), to have the Forum messages sent to 
+their mail address.
+
+Messages to the pyFormex Announcement Mailing List should be sent to
+pyformex-announce at lists.berlios.de. They will be sent to all people
+subscribed to the list (not just developers).
+
+I took the liberty to add all the developers to the Mailing List.
+You can change your preferences (or even unsubscribe) at 
+https://developer.berlios.de/mail/?group_id=2717
+
+Benedict
+
+

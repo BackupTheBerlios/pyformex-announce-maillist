@@ -1,0 +1,20 @@
+From benedict.verhegghe at ugent.be  Sat May 24 17:51:24 2008
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Sat, 24 May 2008 17:51:24 +0200
+Subject: [Pyformex-announce] pyFormex 0.7.1 has been released
+Message-ID: <4838397C.9030008@ugent.be>
+
+pyFormex 0.7.1 has just been released !
+
+Most prominent changes in this release (as compared to 0.7) are:
+- reviewed properties plugin, whose API has now become fairly stable
+- accelerated drawing/picking through the compiled library
+- initiation of a postprocessing framework.
+
+Enjoy!
+
+Benedict
+
+
+
+

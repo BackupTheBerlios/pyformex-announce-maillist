@@ -1,0 +1,29 @@
+From benedict.verhegghe at ugent.be  Tue Oct 13 17:23:10 2009
+From: benedict.verhegghe at ugent.be (Benedict Verhegghe)
+Date: Tue, 13 Oct 2009 17:23:10 +0200
+Subject: [Pyformex-announce] Next pyFormex user meeting
+Message-ID: <4AD49B5E.1010208@ugent.be>
+
+Hi pyFormexers,
+
+The next pyFormex user meeting is scheduled on Tuesday 3 nov. at 10.00h
+in the IBitech meeting room at IBiTech.
+
+Among the items to be discussed:
+- The properties database and export to Abaqus
+- Revised input dialogs
+
+Attendees who want to make a presentation should contact me in advance.
+
+Benedict
+
+-- 
+=======================================================================
+Prof. Benedict Verhegghe                              Universiteit Gent
+E-mail: benedict.verhegghe at ugent.be                    IBiTech-bioMMeda
+Tel: +32 9 332 4320                               Campus Heymans-Blok B
+Fax: +32 9 332 4159                       De Pintelaan 185, B-9000 GENT
+                                             http://www.ibitech.ugent.be
+=======================================================================
+
+
